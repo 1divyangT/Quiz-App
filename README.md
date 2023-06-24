@@ -1,10 +1,6 @@
-# quiz_app
+# Quiz_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+An cross-platform mobile quiz app made with flutter .
 
 A few resources to get you started if this is your first Flutter project:
 
